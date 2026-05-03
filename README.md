@@ -27,7 +27,7 @@ Banka işlemlerini yöneten, **C** dilinde geliştirilmiş prosedürel bir progr
 
 ---
 ## 📸 Preview / Önizleme
-![Banka Sistemi Konsol Ekranı](furkan_bank_project.jpg)
+![Banka Sistemi Konsol Ekranı](furkan_bank_project.png)
 *🇺🇸 Application interface showing account operations and menu options.*
 *🇹🇷 Hesap işlemlerini ve menü seçeneklerini gösteren uygulama arayüzü.*
 
