@@ -27,13 +27,24 @@ Banka işlemlerini yöneten, **C** dilinde geliştirilmiş prosedürel bir progr
 
 ---
 ## 📸 Preview / Önizleme
-![Banka Sistemi Konsol Ekranı](furkan_bank_project.png)
-*Programın çalışma anındaki menü ve işlem ekranı yukarıdaki gibidir.*
+![Banka Sistemi Konsol Ekranı](furkan_bank_project.jpg)
+*🇺🇸 Application interface showing account operations and menu options.*
+*🇹🇷 Hesap işlemlerini ve menü seçeneklerini gösteren uygulama arayüzü.*
 
 ## 🚀 How to Run / Nasıl Çalıştırılır
-1. **Compiler:** Bir C derleyicisine (GCC, Clang vb.) ihtiyacınız var.
-2. **Compile:** Terminali açın ve şu komutu yazın: 
+
+### 🇺🇸 English
+1. **Compiler:** You need a C compiler (GCC, Clang, etc.).
+2. **Compile:** Open your terminal and run: 
    `gcc banka.c -o banka`
-3. **Run:** Derlenen dosyayı çalıştırın:
+3. **Run:** Execute the compiled file:
+   `./banka` (or `banka.exe` on Windows)
+4. **Data:** A file named `banka.dat` will be created in the directory to store data persistently.
+
+### 🇹🇷 Türkçe
+1. **Derleyici:** Bir C derleyicisine (GCC, Clang vb.) ihtiyacınız var.
+2. **Derleme:** Terminali açın ve şu komutu yazın: 
+   `gcc banka.c -o banka`
+3. **Çalıştırma:** Derlenen dosyayı çalıştırın:
    `./banka` (Windows için `banka.exe`)
-4. **Data:** Program çalıştığında aynı klasörde `banka.dat` adında bir dosya oluşacaktır, veriler burada saklanır.
+4. **Veri:** Verilerin kalıcı saklanması için dizinde `banka.dat` adında bir dosya oluşacaktır.ler burada saklanır.
